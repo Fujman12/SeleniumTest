@@ -7,7 +7,7 @@ Script written on Python using Selenium WebDriver and PhantonJS
 
 -Virtual environment https://virtualenv.pypa.io/en/stable/
 
-Installation:
+<strong>Installation: </strong>
 1. Clone or download the project
 2. In the project folder start terminal and run this:
 source venv/bin/activate
