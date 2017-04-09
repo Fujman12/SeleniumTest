@@ -2,7 +2,9 @@
 Script written on Python using Selenium WebDriver and PhantonJS
 
 Requirements:
+
 -Python 3+
+
 -Virtual environment https://virtualenv.pypa.io/en/stable/
 
 Installation:
