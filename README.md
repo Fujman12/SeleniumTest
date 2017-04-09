@@ -1,7 +1,7 @@
 # SeleniumTest
 Script written on Python using Selenium WebDriver and PhantonJS
 
-Requirements:
+<strong>Requirements: </strong>
 
 -Python 3+
 
