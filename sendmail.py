@@ -7,7 +7,7 @@ import datetime
 fromaddr = "bloginvestmonitor@gmail.com"
 
 ### TO Address
-toaddr = "Fujman94@gmail.com"
+toaddr = "halukakin@gmail.com"
 
 def sendmail():
     msg = MIMEMultipart()
