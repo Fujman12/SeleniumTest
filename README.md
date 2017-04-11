@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 python start.py
 
-4. Then each time you need to run the scripts you just type:
+4. Each time you need to run the scripts you just type:
 
 python start.py 
 
