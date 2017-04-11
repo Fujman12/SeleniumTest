@@ -5,17 +5,19 @@ Script written on Python using Selenium WebDriver and PhantonJS
 
 -Python 3+
 
--Virtual environment https://virtualenv.pypa.io/en/stable/
 
 <strong>Installation: </strong>
 1. Clone or download the project
-2. In the project folder start terminal and run this:
-source venv/bin/activate
+2. Install required pakckages. In the project folder start terminal and run this:
 
-3. Then run:
 pip install -r requirements.txt
 
-4. After that you are ready to run the script like this:
+3. After that you are ready to run the script doing this:
+
 python start.py
 
-Remember to activate the virtual environment each time before you run the script.
+4. Then each time you need to run the scripts you just type:
+
+python start.py 
+
+from the project folder
