@@ -19,7 +19,7 @@ password = "1q2w3e"
 
 def run_driver():
     print("Starting Selenium Webdriver...")
-    driver = webdriver.PhantomJS("%s/phantomjs_Linux32" % os.path.dirname(os.path.abspath(__file__)))
+    driver = webdriver.PhantomJS("%s/phantomjs_Linux64" % os.path.dirname(os.path.abspath(__file__)))
 
     # hack while the python interface lags
     driver.command_executor._commands['executePhantomScript'] = ('POST', '/session/$sessionId/phantom/execute')
